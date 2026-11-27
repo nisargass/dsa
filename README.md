@@ -12,6 +12,7 @@ My Data Structures and Algorithms practice in Python, including problem solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/nisargass/dsa/tree/main/0344-reverse-string/) | Easy |
+| [0761-special-binary-string](https://github.com/nisargass/dsa/tree/main/0761-special-binary-string/) | Hard |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -21,6 +22,7 @@ My Data Structures and Algorithms practice in Python, including problem solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/nisargass/dsa/tree/main/0075-sort-colors/) | Medium |
+| [0761-special-binary-string](https://github.com/nisargass/dsa/tree/main/0761-special-binary-string/) | Hard |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,4 +31,8 @@ My Data Structures and Algorithms practice in Python, including problem solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/nisargass/dsa/tree/main/0075-sort-colors/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0761-special-binary-string](https://github.com/nisargass/dsa/tree/main/0761-special-binary-string/) | Hard |
 <!---LeetCode Topics End-->
